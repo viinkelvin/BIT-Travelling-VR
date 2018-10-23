@@ -1,0 +1,23 @@
+{
+  "name": "BIT-Travelling-VR",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "budo --live --verbose --port 3000 --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viinkelvin/BIT-Travelling-VR.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viinkelvin/BIT-Travelling-VR/issues"
+  },
+  "homepage": "https://github.com/viinkelvin/BIT-Travelling-VR#readme",
+  "dependencies": {
+    "budo": "^11.5.0"
+  }
+}
